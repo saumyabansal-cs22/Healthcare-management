@@ -12,57 +12,13 @@ Version Control: Git<br>
 Development Environment: Node.js<br>
 
 
-Screenshots : 
-
-HomePage :
-
-
-<img width="930" alt="Screenshot 2024-05-26 at 9 52 13 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/ae69f2bf-c90f-470d-8b79-ceae8fd99c39">
-
-<img width="953" alt="Screenshot 2024-05-26 at 9 54 02 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/fc3cc94b-479e-48a0-a5e3-6019c39320cc">
-
-<img width="711" alt="Screenshot 2024-05-26 at 9 56 29 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/8d4e5c04-f277-441e-bf6f-02bcc968580d">
 
 
 
 
-Login :
-
-<img width="778" alt="Screenshot 2024-05-26 at 9 57 41 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/0cadee31-7af2-4fdf-a3bb-af8ac937534e">
-<br>
-<br><br>
-Patient Side : 
-<br>
-<br><br>
-
-<img width="1228" alt="Screenshot 2024-05-26 at 10 07 59 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/64b725c9-061f-4cea-a630-1602666dd374">
-
-<img width="1139" alt="Screenshot 2024-05-26 at 10 07 11 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/ce4e1dd6-e2bd-48f9-b185-0350a2fa53ae">
 
 
-<br>
-<br><br>
-Doctor Side :
-<br>
-<br><br>
-<img width="817" alt="Screenshot 2024-05-26 at 10 33 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/6761f2ab-7133-424a-b997-a5ca4bca2553">
-<br><br>
 
-<img width="1363" alt="Screenshot 2024-05-26 at 10 28 16 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/e328184c-f7b8-422e-9945-58820179cc7b">
-<br><br>
-
-<br><br>
-Diagnostic Side :
-<br>
-<img width="808" alt="Screenshot 2024-05-26 at 10 48 42 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/f66e9981-6b98-483c-bf25-560bc13f5fc0">
-
-<br>
-
-
-<br><br>
-Report has been reflected in record viewer so that both patient and doctor can see : 
-<br>
-<br>
 
 
 ## Full working project 
