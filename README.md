@@ -15,7 +15,7 @@ Development Environment: Node.js<br>
 Screenshots : 
 
 HomePage :
-<img width="1403" alt="Screenshot 2024-05-26 at 9 45 21 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/2ba73782-e348-45f3-94fd-a3a7ba52db5c">
+
 
 <img width="930" alt="Screenshot 2024-05-26 at 9 52 13 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/ae69f2bf-c90f-470d-8b79-ceae8fd99c39">
 
