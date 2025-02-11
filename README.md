@@ -11,7 +11,6 @@ Testing Frameworks: Truffle (for testing Solidity contracts)<br>
 Version Control: Git<br>
 Development Environment: Node.js<br>
 
-Demo Video : https://www.youtube.com/watch?v=3W5-6diqvV0
 
 Screenshots : 
 
@@ -40,12 +39,6 @@ Patient Side :
 
 <img width="1139" alt="Screenshot 2024-05-26 at 10 07 11 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/ce4e1dd6-e2bd-48f9-b185-0350a2fa53ae">
 
-<img width="1392" alt="Screenshot 2024-05-26 at 10 08 20 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/8801fd68-f1b4-48ab-b646-254eb9391b5e">
-
-
-<img width="850" alt="Screenshot 2024-05-26 at 10 08 56 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/2e17c358-89b6-4c74-afec-6f07db6515d4">
-
-<img width="1025" alt="Screenshot 2024-05-26 at 10 11 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/98283e49-c4cc-41ba-95b0-1a2e1afbff77">
 
 <br>
 <br><br>
@@ -54,12 +47,10 @@ Doctor Side :
 <br><br>
 <img width="817" alt="Screenshot 2024-05-26 at 10 33 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/6761f2ab-7133-424a-b997-a5ca4bca2553">
 <br><br>
-<img width="1427" alt="Screenshot 2024-05-26 at 10 27 54 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/d4c03b71-916c-4fb5-8d37-34e5244b7ea0">
-<br><br>
+
 <img width="1363" alt="Screenshot 2024-05-26 at 10 28 16 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/e328184c-f7b8-422e-9945-58820179cc7b">
 <br><br>
-<img width="671" alt="Screenshot 2024-05-26 at 10 29 31 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/1572acf6-fd11-4044-9075-f8604de5657a">
-<br><br>
+
 <br><br>
 Diagnostic Side :
 <br>
@@ -67,23 +58,15 @@ Diagnostic Side :
 
 <br>
 
-<img width="761" alt="Screenshot 2024-05-26 at 10 43 57 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/f51db8b9-95d9-418e-ba42-f38e397de263">
 
 <br><br>
 Report has been reflected in record viewer so that both patient and doctor can see : 
 <br>
 <br>
 
-<img width="1395" alt="Screenshot 2024-05-26 at 10 44 59 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/b5549f81-7dd3-4e2c-8514-b44ed045fec2">
-<br><br>
-<img width="841" alt="Screenshot 2024-05-26 at 10 45 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/c3b6c074-1fc2-4f92-a2ec-f4a3b6b0d4b2">
 
-## For Full working project 
+## Full working project 
 
-
-contact : 
-[Mail](mailto:sonupradhan208@gmail.com?Subject=ehr-blockchain&Body=Hi,)
-`sonupradhan208@gmail.com`
 
 🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
 
